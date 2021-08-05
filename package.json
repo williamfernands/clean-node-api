@@ -1,0 +1,22 @@
+{
+  "name": "clean-node-api",
+  "version": "1.0.0",
+  "description": "Clean Architecture and TDD - Teste Driven Development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamfernands/clean-node-api.git"
+  },
+  "author": "William Fernandes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/williamfernands/clean-node-api/issues"
+  },
+  "homepage": "https://github.com/williamfernands/clean-node-api#readme",
+  "devDependencies": {
+    "standard": "^16.0.3"
+  }
+}
