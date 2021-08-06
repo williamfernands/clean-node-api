@@ -4,7 +4,7 @@
   "description": "Clean Architecture and TDD - Teste Driven Development",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/williamfernands/clean-node-api#readme",
   "devDependencies": {
+    "husky": "^7.0.1",
+    "jest": "^27.0.6",
+    "lint-staged": "^11.1.1",
     "standard": "^16.0.3"
   }
 }
